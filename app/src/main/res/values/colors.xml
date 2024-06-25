@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#008577</color>
+    <color name="color_primary_with_transparency" >#4D008577</color>
+    <color name="color_primary_dark">#313840</color>
+    <color name="color_on_secondary">@android:color/white</color>
+    <color name="red">#FF1717</color>
+    <color name="red_with_transparency">#4DFF1717</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="colorOnSurface">#000</color>
+
+
+    <!-- Lcs-->
+    <!--    <color name="bar_graph_extremes">#FFFF85</color>-->
+    <color name="bar_graph_extremes">#F88786</color>
+    <color name="bar_graph_middle">#77BF80</color>
+    <color name="bar_graph_axis">#B8B8B8</color>
+    <color name="lcs_zone_indication_text_color">@android:color/black</color>
+</resources>

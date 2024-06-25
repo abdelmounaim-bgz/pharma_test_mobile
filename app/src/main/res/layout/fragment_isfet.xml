@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:context="com.mascir.smartsensorfer.IsfetFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            android:id="@+id/IsfetProgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:layout_constraintBottom_toTopOf="@id/IsfetLoadingText"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/IsfetLoadingText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chargement ..."
+            android:textColor="@color/color_primary"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/IsfetProgress" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/IsfetScreen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_begin="40dp" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline_end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_end="40dp" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline_top"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_begin="40dp" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_end="40dp" />
+
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/showResults"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/ic_results"
+                app:layout_constraintRight_toLeftOf="@id/IsfetCalibrate"
+                app:layout_constraintTop_toBottomOf="@id/guideline_top" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/IsfetCalibrate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_stat_name"
+                app:layout_constraintRight_toLeftOf="@id/guideline_end"
+                app:layout_constraintTop_toBottomOf="@id/guideline_top" />
+            <!--<Button
+                android:id="@+id/IsfetCalibrate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Calibration"
+                app:layout_constraintRight_toLeftOf="@id/guideline_end"
+                app:layout_constraintTop_toBottomOf="@id/guideline_top" />-->
+
+            <Button
+                android:id="@+id/IsfetMesure"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mesurer"
+
+                app:layout_constraintRight_toLeftOf="@id/guideline_end"
+                app:layout_constraintTop_toBottomOf="@id/IsfetCalibrate" />
+
+
+            <LinearLayout
+                android:id="@+id/IsfetValues"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:divider="@drawable/divider_hor"
+                android:orientation="vertical"
+                android:padding="5dp"
+                app:layout_constraintLeft_toRightOf="@id/guideline_start"
+                app:layout_constraintTop_toBottomOf="@id/guideline_top">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="5dp"
+                    android:elevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="a : "
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/aVal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="12.548"
+                            android:textSize="25dp" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="5dp"
+                    android:elevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="b : "
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/bVal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="12.548"
+                            android:textSize="25dp" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/RCar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="5dp"
+                    android:elevation="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="R² : "
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/RcarVal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="12.548"
+                            android:textSize="25dp" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+            <TableLayout
+                android:id="@+id/table_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toTopOf="@id/numEchantIsfet"
+                app:layout_constraintLeft_toRightOf="@id/guideline_start"
+                app:layout_constraintRight_toLeftOf="@id/guideline_end"
+                app:layout_constraintTop_toBottomOf="@id/IsfetMesure">
+
+                <TableRow android:layout_width="match_parent">
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text="Valeur"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text="Vsg"
+                        android:textStyle="bold" />
+                </TableRow>
+
+                <TableRow android:layout_width="match_parent">
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text="200"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text=""
+                        android:textStyle="bold" />
+                </TableRow>
+
+                <TableRow android:layout_width="match_parent">
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text="300"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text=""
+                        android:textStyle="bold" />
+                </TableRow>
+
+                <TableRow android:layout_width="match_parent">
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text="100"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text=""
+                        android:textStyle="bold" />
+                </TableRow>
+
+                <TableRow android:layout_width="match_parent">
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text="mesure"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:padding="3dip"
+                        android:text=""
+                        android:textStyle="bold" />
+                </TableRow>
+            </TableLayout>
+
+            <EditText
+                android:id="@+id/numEchantIsfet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Numéro d'échantillon"
+                app:layout_constraintBottom_toTopOf="@id/paramText"
+                app:layout_constraintLeft_toRightOf="@id/guideline_start"
+                app:layout_constraintRight_toLeftOf="@id/guideline_end"
+                app:layout_constraintTop_toBottomOf="@id/table_layout" />
+
+            <TextView
+                android:id="@+id/paramText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="K+ = "
+                android:textColor="@color/color_primary"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@id/guideline_bottom"
+                app:layout_constraintLeft_toRightOf="@id/guideline_start"
+                app:layout_constraintRight_toLeftOf="@id/IsfetValue"
+                app:layout_constraintTop_toBottomOf="@id/numEchantIsfet" />
+
+            <TextView
+                android:id="@+id/IsfetValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="-"
+                android:textColor="@color/color_primary"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@id/guideline_bottom"
+                app:layout_constraintLeft_toRightOf="@id/paramText"
+                app:layout_constraintRight_toLeftOf="@id/IsfetUnit"
+                app:layout_constraintTop_toBottomOf="@id/numEchantIsfet" />
+
+            <TextView
+                android:id="@+id/IsfetUnit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="mol/L"
+                android:textColor="@color/color_primary"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@id/guideline_bottom"
+                app:layout_constraintLeft_toRightOf="@id/IsfetValue"
+                app:layout_constraintRight_toLeftOf="@id/guideline_end"
+                app:layout_constraintTop_toBottomOf="@id/numEchantIsfet" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</layout>

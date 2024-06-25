@@ -1,0 +1,74 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Base.AppTheme" />
+
+    <style name="DialogDark" />
+
+    <style name="TransparentView">
+        <item name="background">@android:color/transparent</item>
+    </style>
+
+    <!--For titles-->
+    <style name="TextAppearance.AgriSensor.H1" parent="@style/TextAppearance.MaterialComponents.Headline5">
+        <item name="android:fontFamily">@font/open_sans</item>
+        <item name="fontFamily">@font/open_sans</item>
+        <item name="android:textSize">@dimen/text_size_h1</item>
+    </style>
+    <!--For smaller titles-->
+    <style name="TextAppearance.AgriSensor.H2" parent="@style/TextAppearance.AgriSensor.H1">
+        <item name="android:fontFamily">@font/open_sans</item>
+        <item name="fontFamily">@font/open_sans</item>
+        <item name="android:textSize">@dimen/text_size_h2</item>
+    </style>
+
+    <style name="TextAppearance.AgriSensor.H3" parent="@style/TextAppearance.AgriSensor.H1">
+        <item name="android:fontFamily">@font/open_sans</item>
+        <item name="fontFamily">@font/open_sans</item>
+        <item name="android:textSize">@dimen/text_size_h3</item>
+    </style>
+
+    <style name="TextAppearance.AgriSensor.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:fontFamily">@font/open_sans_semibold</item>
+
+        <item name="android:textAllCaps">false</item>
+        <item name="fontFamily">@font/open_sans_semibold</item>
+    </style>
+
+    <!-- List item primary text, e.g. session titles, parcel titles -->
+    <style name="TextAppearance.AgriSensor.ListPrimary" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:fontFamily">@font/open_sans_semibold</item>
+
+        <item name="fontFamily">@font/open_sans_semibold</item>
+    </style>
+
+    <!--section headers-->
+    <style name="TextAppearance.AgriSensor.ToolbarTitle" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:fontFamily">@font/open_sans_semibold</item>
+        <item name="android:textSize">@dimen/text_size_h3</item>
+    </style>
+
+
+    <!-- Widget styles -->
+    <style name="Widget.AgriSensor" parent="@android:style/Widget.Material" tools:targetApi="lollipop" />
+
+    <style name="Widget.AgriSensor.AppBar" parent="@style/Widget.Design.AppBarLayout">
+        <item name="android:background">?attr/colorSurface</item>
+    </style>
+
+    <style name="Widget.AgriSensor.Toolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="contentInsetStartWithNavigation">@dimen/padding_start</item>
+        <item name="popupTheme">@style/AppTheme.PopupTheme</item>
+        <item name="titleTextAppearance">@style/TextAppearance.AgriSensor.ToolbarTitle</item>
+    </style>
+
+    <style name="Widget.AgriSensor.MultilineBody">
+        <item name="android:lineSpacingExtra">4sp</item>
+    </style>
+
+    <dimen name="padding_start">14dp</dimen>
+
+    <style name="OptionsButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#E9E9E9</item>
+        <item name="colorButtonNormal">?android:colorBackground</item>
+    </style>
+</resources>

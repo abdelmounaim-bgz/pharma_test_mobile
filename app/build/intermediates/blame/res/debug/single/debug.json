@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_fragment_container.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_container.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_fe.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/fe.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_paroxetine_chlorhydrate.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/paroxetine_chlorhydrate.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_divider_hor.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/divider_hor.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_bt_connect.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_bt_connect.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-hdpi/ic_add_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_nifuroxazide.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/nifuroxazide.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_add_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-mdpi/ic_add_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_bt_connect.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_bt_connect.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_res_items.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/res_items.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_comprime.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_comprime.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sol.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_sol.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_add_background.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add_background.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_cafeine.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/cafeine.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sol.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_sol.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_carbamazepine.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/carbamazepine.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_dots_vertical.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-hdpi/ic_dots_vertical.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_isfet.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_isfet.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sol.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_sol.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_furosemide.jpg.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/furosemide.jpg"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_bt_connect.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_bt_connect.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_add_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xxxhdpi/ic_add_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_bt_search.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_bt_search.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_bt_connect.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_bt_connect.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_nav_header.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_liquid.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_liquid.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_add_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_divider.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_bt_search.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_bt_search.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_poudre.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_poudre.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_amoxicilline_tri.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/amoxicilline_tri.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_close.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_close.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_isfet.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_isfet.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/menu_context_menu.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/menu/context_menu.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_add_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/menu_navdrawer_menu.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/menu/navdrawer_menu.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_close.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_close.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_bt_search.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_bt_search.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_delete.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-ldpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_bt_search.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_bt_search.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_dots_vertical.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_dots_vertical.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_isfet.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_isfet.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_close.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_close.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_comprime.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_comprime.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_poudre.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_poudre.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_ibuprofene.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/ibuprofene.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_stat_name.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_activity_scan.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/activity_scan.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_dots_vertical.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_dots_vertical.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_add_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xxhdpi/ic_add_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_liquid.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_liquid.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_fragment_spectro.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_spectro.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_activity_results.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/activity_results.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_dots_vertical.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-mdpi/ic_dots_vertical.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_poudre.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_poudre.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_scan.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/scan.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add_foreground.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_add_foreground.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_isfet_calibration_dialog.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/isfet_calibration_dialog.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_stat_name.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_results.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_results.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dots_vertical.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_dots_vertical.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_results.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_results.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_mascir.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/mascir.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_comprime.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_comprime.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_name.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_results.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_results.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_poudre.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_poudre.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_mg.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/mg.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_isfet.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_isfet.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_dots_vertical.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-ldpi/ic_dots_vertical.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add_foreground.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-hdpi/ic_add_foreground.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_close.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_close.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_bt_connect.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_bt_connect.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_add_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xhdpi/ic_add_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/font_open_sans.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/font/open_sans.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_add_foreground.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add_foreground.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_add.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-anydpi-v26/ic_add.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_fragment_main_menu.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_main_menu.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_foreground.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add_foreground.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sol.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_sol.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_fragment_scan.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_delete.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_liquid.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_liquid.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_bt_search.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_bt_search.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_results.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_results.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_delete.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_stat_name.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_green_check.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/green_check.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_result_background.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/result_background.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_isfet_results_dialog.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/isfet_results_dialog.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_liquid.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_liquid.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_sol.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_sol.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_stat_name.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-anydpi-v24/ic_stat_name.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_pyridoxine_chlorohydrate.jpeg.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/pyridoxine_chlorohydrate.jpeg"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_close.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_close.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_isfet.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_isfet.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_delete.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_paracetamol.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/paracetamol.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_add_foreground.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add_foreground.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_liquid.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_liquid.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_dots_vertical.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_dots_vertical.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable_acide_ascorbique.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable/acide_ascorbique.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_delete.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_fragment_isfet.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_isfet.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_poudre.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-mdpi/ic_poudre.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_activity_isfet.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/activity_isfet.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_add_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-hdpi/ic_add_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_results.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_results.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_add_round.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/mipmap-anydpi-v26/ic_add_round.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_comprime.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xhdpi/ic_comprime.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/layout_scans_items.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/scans_items.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/font_open_sans_semibold.xml.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/font/open_sans_semibold.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add_foreground.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add_foreground.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add_foreground.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add_foreground.png"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_comprime.png.flat",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/drawable-xxhdpi/ic_comprime.png"
+    }
+]

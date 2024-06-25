@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/fragmentMainMenu">
+
+   <!-- <dialog
+        android:id="@+id/PrerequisitesFragment"
+        android:name="org.mascir.smartagrisensor.ui.bluetooth.PrerequisitesFragment"
+        android:label="PrerequisitesFragment">
+
+        <argument
+            android:name="fid"
+            android:defaultValue="@null"
+            app:argType="string"
+            app:nullable="true" />
+        <action
+            android:id="@+id/action_PrerequisitesFragment_to_ble_navigation_sensor"
+            app:destination="@id/ble_navigation_sensor"
+            app:popUpTo="@id/navigation_sessions" />
+        <action
+            android:id="@+id/action_PrerequisitesFragment_to_classic_navigation_sensor"
+            app:destination="@id/classic_navigation_sensor"
+            app:popUpTo="@id/navigation_sessions" />
+
+    </dialog>-->
+    <fragment
+        android:id="@+id/fragmentMainMenu"
+        android:name="com.mascir.smartsensorfer.FragmentMainMenu"
+        android:label="fragment_main_menu"
+        tools:layout="@layout/fragment_main_menu" >
+        <action
+            android:id="@+id/action_fragmentMainMenu_to_isfetFragment"
+            app:destination="@id/isfetFragment" />
+        <action
+            android:id="@+id/action_fragmentMainMenu_to_fragmentScan"
+            app:destination="@id/fragmentScan" />
+        <!--  <action
+              android:id="@+id/action_fragmentMainMenu_to_PrerequisitesFragment"
+              app:destination="@id/PrerequisitesFragment" />-->
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentScan"
+        android:name="com.mascir.smartsensorfer.FragmentScan"
+        android:label="fragment_scan"
+        tools:layout="@layout/fragment_scan" >
+        <action
+            android:id="@+id/action_fragmentScan_to_fragmentMainMenu"
+            app:destination="@id/fragmentMainMenu" />
+    </fragment>
+    <fragment
+        android:id="@+id/isfetFragment"
+        android:name="com.mascir.smartsensorfer.IsfetFragment"
+        android:label="fragment_isfet"
+        tools:layout="@layout/fragment_isfet" >
+        <action
+            android:id="@+id/action_isfetFragment_to_fragmentMainMenu"
+            app:destination="@id/fragmentMainMenu" />
+    </fragment>
+</navigation>

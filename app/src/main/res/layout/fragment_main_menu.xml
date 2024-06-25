@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mascir.smartsensorfer.FragmentMainMenu">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="40dp" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline_end"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_end="40dp" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_begin="40dp" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_end="40dp" />
+
+        <ProgressBar
+            android:id="@+id/BtProgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:layout_constraintBottom_toTopOf="@id/guideline_bottom"
+            app:layout_constraintLeft_toRightOf="@id/guideline_start"
+            app:layout_constraintRight_toLeftOf="@id/guideline_end"
+            app:layout_constraintTop_toBottomOf="@id/guideline_top" />
+
+        <TextView
+            android:id="@+id/BtLoadingText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chargement ..."
+            android:textAlignment="center"
+            android:textColor="@color/color_primary"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            app:layout_constraintBottom_toTopOf="@id/guideline_bottom"
+            app:layout_constraintLeft_toRightOf="@id/guideline_start"
+            app:layout_constraintRight_toLeftOf="@id/guideline_end"
+            app:layout_constraintTop_toBottomOf="@+id/BtProgress" />
+
+        <!-- <Switch
+             android:id="@+id/on_off"
+             android:layout_width="wrap_content"
+             android:layout_height="50dp"
+             android:layout_marginTop="20dp"
+             android:checked="true"
+             android:enabled="false"
+             android:padding="10dp"
+             android:text="On/Off"
+             app:layout_constraintEnd_toStartOf="@id/guideline_end"
+             app:layout_constraintTop_toTopOf="parent" />-->
+
+        <LinearLayout
+            android:id="@+id/cnxBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:divider="@drawable/divider"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toTopOf="@id/Menu"
+            app:layout_constraintLeft_toRightOf="@id/guideline_start"
+            app:layout_constraintRight_toLeftOf="@id/guideline_end"
+            app:layout_constraintTop_toBottomOf="@id/guideline_top">
+
+            <TextView
+                android:id="@+id/anoucement"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Merci de connecter votre capteur avant de commencer les scans"
+                android:textAlignment="center"
+                android:textColor="@color/color_primary"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp" />
+
+            <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                android:id="@+id/BtCnxBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Connexion"
+                app:icon="@drawable/ic_bt_connect" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/Menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:divider="@drawable/divider_hor"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toTopOf="@id/guideline_bottom"
+            app:layout_constraintLeft_toRightOf="@id/guideline_start"
+            app:layout_constraintRight_toLeftOf="@id/guideline_end"
+            app:layout_constraintTop_toBottomOf="@id/guideline_top">
+
+            <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                android:id="@+id/poudre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:text="Poudre"
+                app:icon="@drawable/ic_poudre" />
+
+            <TextView
+                android:layout_width="15dp"
+                android:layout_height="wrap_content" />
+
+            <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                android:id="@+id/comprime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:text="comprimé"
+                app:icon="@drawable/ic_comprime" />
+
+            <TextView
+                android:layout_width="15dp"
+                android:layout_height="wrap_content" />
+
+            <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                android:id="@+id/liquid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:enabled="false"
+                android:text="liquide"
+                app:icon="@drawable/ic_liquid" />
+
+
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

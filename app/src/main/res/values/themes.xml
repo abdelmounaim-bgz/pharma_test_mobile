@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Base application themes-->
+    <style name="Base.AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorSecondary">?attr/colorPrimary</item>
+        <item name="colorOnSecondary">@color/color_on_secondary</item>
+
+        <!--Text appearances-->
+        <item name="textAppearanceButton">@style/TextAppearance.AgriSensor.Button</item>
+        <item name="textAppearanceListItem">@style/TextAppearance.AgriSensor.ListPrimary</item>
+
+        <!-- Widget styles -->
+        <item name="toolbarStyle">@style/Widget.AgriSensor.Toolbar</item>
+
+        <item name="android:dialogTheme">@style/Dialog.Theme</item>
+    </style>
+
+    <style name="ThemeOverlay.AgriSensor.Light" parent="ThemeOverlay.MaterialComponents.Light">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+    </style>
+
+    <style name="Dialog.Theme" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+        <item name="dialogCornerRadius">@dimen/dialog_corner_radius</item>
+        <item name="dialogPreferredPadding">@dimen/dialogPreferredPadding</item>
+    </style>
+
+    <style name="AppTheme.PopupTheme" parent="ThemeOverlay.AgriSensor.Light" />
+</resources>

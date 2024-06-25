@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_main_menu.xml",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_main_menu.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_spectro.xml",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_spectro.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_scan.xml",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_isfet.xml",
+        "source": "/home/abdelmounaim/projects/pharma_test/smartsensorfer/app/src/main/res/layout/fragment_isfet.xml"
+    }
+]
